@@ -43,9 +43,7 @@ public class AdditionOfTwoMAtrices {
             System.out.println("the matrix daminsion is not match ");
             return null;
         }
-
-
-        
+   
     }
     void print2dArray(int [][]arr){
         for(int i =0;i<arr.length;i++){
