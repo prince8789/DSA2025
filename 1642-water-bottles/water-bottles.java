@@ -7,7 +7,6 @@ class Solution {
             count =count +newbottle ;
             
             empty_bottle = empty_bottle % numExchange + newbottle;
-            //empty_bottle = empty_bottle%numExchange;
 
         }
         return count;
