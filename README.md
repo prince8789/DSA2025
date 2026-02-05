@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prince8789/DSA2025/tree/master/0001-two-sum) |
 | [3379-transformed-array](https://github.com/prince8789/DSA2025/tree/master/3379-transformed-array) |
 | [3668-restore-finishing-order](https://github.com/prince8789/DSA2025/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prince8789/DSA2025/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/prince8789/DSA2025/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [3668-restore-finishing-order](https://github.com/prince8789/DSA2025/tree/master/3668-restore-finishing-order) |
