@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
+| [0724-find-pivot-index](https://github.com/prince8789/DSA2025/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince8789/DSA2025/tree/master/0922-sort-array-by-parity-ii) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/prince8789/DSA2025/tree/master/3713-longest-balanced-substring-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/prince8789/DSA2025/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
