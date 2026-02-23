@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prince8789/DSA2025/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/prince8789/DSA2025/tree/master/1207-unique-number-of-occurrences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prince8789/DSA2025/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
@@ -140,4 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/prince8789/DSA2025/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/prince8789/DSA2025/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
