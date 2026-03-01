@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince8789/DSA2025/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prince8789/DSA2025/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince8789/DSA2025/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
