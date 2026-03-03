@@ -8,8 +8,7 @@ class Solution {
             while(left<right){
                 int sum = nums[i]+nums[left]+nums[right];
                 if(sum==target){
-                    closest = sum;
-                    break;
+                   return sum;
                 }
                 else if(sum<target){
                     if(Math.abs(target-closest)>Math.abs(target-sum)){
