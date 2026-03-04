@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/prince8789/DSA2025/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/prince8789/DSA2025/tree/master/2396-strictly-palindromic-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
