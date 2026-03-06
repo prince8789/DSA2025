@@ -1,17 +1,11 @@
 class Solution {
     public String trimTrailingVowels(String s) {
-        StringBuilder sb = new StringBuilder(s);
+        int i = s.length() - 1;
 
-        for (int i = sb.length() - 1; i >= 0; i--) {
-            char ch = sb.charAt(i);
-
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-                sb.deleteCharAt(i);
-            } else {
-                break;
-            }
+        while (i >= 0 && "aeiou".indexOf(s.charAt(i)) != -1) {
+            i--;
         }
 
-        return sb.toString();
+        return s.substring(0, i + 1);
     }
 }
