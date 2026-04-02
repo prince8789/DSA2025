@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/prince8789/DSA2025/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
