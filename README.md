@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince8789/DSA2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/prince8789/DSA2025/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince8789/DSA2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince8789/DSA2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prince8789/DSA2025/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prince8789/DSA2025/tree/master/0876-middle-of-the-linked-list) |
