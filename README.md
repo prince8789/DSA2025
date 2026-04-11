@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prince8789/DSA2025/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prince8789/DSA2025/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
@@ -199,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prince8789/DSA2025/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prince8789/DSA2025/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/prince8789/DSA2025/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince8789/DSA2025/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prince8789/DSA2025/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prince8789/DSA2025/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
