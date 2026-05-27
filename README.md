@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/prince8789/DSA2025/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/prince8789/DSA2025/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prince8789/DSA2025/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/prince8789/DSA2025/tree/master/0735-asteroid-collision) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince8789/DSA2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -234,8 +235,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prince8789/DSA2025/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prince8789/DSA2025/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prince8789/DSA2025/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prince8789/DSA2025/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
