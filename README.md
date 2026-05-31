@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/prince8789/DSA2025/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2126-destroying-asteroids](https://github.com/prince8789/DSA2025/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince8789/DSA2025/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince8789/DSA2025/tree/master/0922-sort-array-by-parity-ii) |
+| [2126-destroying-asteroids](https://github.com/prince8789/DSA2025/tree/master/2126-destroying-asteroids) |
 | [3467-transform-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince8789/DSA2025/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2126-destroying-asteroids](https://github.com/prince8789/DSA2025/tree/master/2126-destroying-asteroids) |
 ## Dynamic Programming
 |  |
 | ------- |
