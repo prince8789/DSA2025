@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince8789/DSA2025/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prince8789/DSA2025/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/prince8789/DSA2025/tree/master/2396-strictly-palindromic-number) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prince8789/DSA2025/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/prince8789/DSA2025/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/prince8789/DSA2025/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince8789/DSA2025/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Linked List
 |  |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/prince8789/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prince8789/DSA2025/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
