@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince8789/DSA2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince8789/DSA2025/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/prince8789/DSA2025/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prince8789/DSA2025/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/prince8789/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/prince8789/DSA2025/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince8789/DSA2025/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince8789/DSA2025/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/prince8789/DSA2025/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
