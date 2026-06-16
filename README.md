@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prince8789/DSA2025/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prince8789/DSA2025/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/prince8789/DSA2025/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/prince8789/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/prince8789/DSA2025/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince8789/DSA2025/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince8789/DSA2025/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/prince8789/DSA2025/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/prince8789/DSA2025/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
