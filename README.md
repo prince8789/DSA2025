@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/prince8789/DSA2025/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/prince8789/DSA2025/tree/master/2396-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prince8789/DSA2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
