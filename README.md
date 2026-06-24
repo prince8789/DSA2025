@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/prince8789/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/prince8789/DSA2025/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/prince8789/DSA2025/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince8789/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prince8789/DSA2025/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/prince8789/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince8789/DSA2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince8789/DSA2025/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prince8789/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/prince8789/DSA2025/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/prince8789/DSA2025/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/prince8789/DSA2025/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/prince8789/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prince8789/DSA2025/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Memoization
 |  |
