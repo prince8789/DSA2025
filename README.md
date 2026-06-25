@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince8789/DSA2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince8789/DSA2025/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/prince8789/DSA2025/tree/master/3668-restore-finishing-order) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prince8789/DSA2025/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/prince8789/DSA2025/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/prince8789/DSA2025/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/prince8789/DSA2025/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prince8789/DSA2025/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/prince8789/DSA2025/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/prince8789/DSA2025/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prince8789/DSA2025/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -366,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/prince8789/DSA2025/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
