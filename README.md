@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/prince8789/DSA2025/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/prince8789/DSA2025/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prince8789/DSA2025/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prince8789/DSA2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prince8789/DSA2025/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prince8789/DSA2025/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/prince8789/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince8789/DSA2025/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
