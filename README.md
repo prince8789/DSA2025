@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/prince8789/DSA2025/tree/master/2810-faulty-keyboard) |
 | [3379-transformed-array](https://github.com/prince8789/DSA2025/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/prince8789/DSA2025/tree/master/3612-process-string-with-special-operations-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/prince8789/DSA2025/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/prince8789/DSA2025/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prince8789/DSA2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prince8789/DSA2025/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prince8789/DSA2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/prince8789/DSA2025/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince8789/DSA2025/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
