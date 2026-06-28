@@ -5,7 +5,7 @@ class Solution {
             freq[Math.min(arr[i],arr.length)]++;
         }
         int ans =1;
-        for(int i =0;i<freq.length;i++){
+        for(int i =2;i<freq.length;i++){
             ans = Math.min(ans+freq[i],i);
         }
         
