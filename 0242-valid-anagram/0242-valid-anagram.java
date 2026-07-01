@@ -13,7 +13,7 @@ class Solution {
                 mp.put(ch,mp.get(ch)+1);
             }
         }
-         Map<Character,Integer> mt = new HashMap<>();
+        Map<Character,Integer> mt = new HashMap<>();
         for(int i =0;i <t.length();i++){
             char ch = t.charAt(i);
             if(!mt.containsKey(ch)){
