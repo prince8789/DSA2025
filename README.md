@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/prince8789/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/prince8789/DSA2025/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prince8789/DSA2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/prince8789/DSA2025/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/prince8789/DSA2025/tree/master/1189-maximum-number-of-balloons) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince8789/DSA2025/tree/master/0922-sort-array-by-parity-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/prince8789/DSA2025/tree/master/1833-maximum-ice-cream-bars) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/prince8789/DSA2025/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prince8789/DSA2025/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/prince8789/DSA2025/tree/master/0868-binary-gap) |
