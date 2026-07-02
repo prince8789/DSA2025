@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/prince8789/DSA2025/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/prince8789/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prince8789/DSA2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
