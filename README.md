@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prince8789/DSA2025/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prince8789/DSA2025/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
