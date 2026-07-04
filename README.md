@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prince8789/DSA2025/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/prince8789/DSA2025/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince8789/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
+| [0896-monotonic-array](https://github.com/prince8789/DSA2025/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince8789/DSA2025/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/prince8789/DSA2025/tree/master/1207-unique-number-of-occurrences) |
