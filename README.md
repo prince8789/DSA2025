@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/prince8789/DSA2025/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/prince8789/DSA2025/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/prince8789/DSA2025/tree/master/0709-to-lower-case) |
@@ -431,4 +432,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince8789/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/prince8789/DSA2025/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
