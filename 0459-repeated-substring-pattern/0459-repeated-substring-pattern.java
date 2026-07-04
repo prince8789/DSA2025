@@ -4,7 +4,7 @@ class Solution {
             if(s.length()%i ==0){
                 String st = s.substring(0,i);
                 StringBuilder sb = new StringBuilder();
-                for(int j =0;j<s.length()/i;j++){
+                for(int j =1;j<=s.length()/i;j++){
                     sb.append(st);
                 }
                 if(sb.toString().equals(s)){
