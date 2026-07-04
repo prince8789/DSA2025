@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/prince8789/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/prince8789/DSA2025/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince8789/DSA2025/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/prince8789/DSA2025/tree/master/1207-unique-number-of-occurrences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince8789/DSA2025/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince8789/DSA2025/tree/master/0922-sort-array-by-parity-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince8789/DSA2025/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/prince8789/DSA2025/tree/master/1833-maximum-ice-cream-bars) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/prince8789/DSA2025/tree/master/1833-maximum-ice-cream-bars) |
 ## Segment Tree
 |  |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
@@ -434,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince8789/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/prince8789/DSA2025/tree/master/0459-repeated-substring-pattern) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
