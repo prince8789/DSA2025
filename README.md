@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prince8789/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/prince8789/DSA2025/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prince8789/DSA2025/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prince8789/DSA2025/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince8789/DSA2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/prince8789/DSA2025/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/prince8789/DSA2025/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prince8789/DSA2025/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
