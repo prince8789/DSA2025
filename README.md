@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prince8789/DSA2025/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prince8789/DSA2025/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prince8789/DSA2025/tree/master/3737-count-subarrays-with-majority-element-i) |
