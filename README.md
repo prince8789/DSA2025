@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prince8789/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prince8789/DSA2025/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prince8789/DSA2025/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/prince8789/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prince8789/DSA2025/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prince8789/DSA2025/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prince8789/DSA2025/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prince8789/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/prince8789/DSA2025/tree/master/0713-subarray-product-less-than-k) |
@@ -301,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/prince8789/DSA2025/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prince8789/DSA2025/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prince8789/DSA2025/tree/master/0693-binary-number-with-alternating-bits) |
