@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/prince8789/DSA2025/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/prince8789/DSA2025/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince8789/DSA2025/tree/master/0229-majority-element-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince8789/DSA2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince8789/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/prince8789/DSA2025/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
