@@ -1,22 +1,21 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        ArrayList<Integer> l = new ArrayList<>();
         HashMap<Integer,Integer> hm = new HashMap<>();
         for(int i =0;i<nums.length;i++){
-            int a = nums[i];
-            if(hm.containsKey(a)){
-                hm.put(a,hm.get(a)+1);
+            if(hm.containsKey(nums[i])){
+                hm.put(nums[i],hm.get(nums[i])+1);
             }
             else{
-                hm.put(a,1);
+                hm.put(nums[i],1);
             }
         }
-        int num = nums.length/3;
-        ArrayList<Integer> l = new ArrayList<>();
-        for(var key : hm.keySet()){
-            if(hm.get(key)>num){
-                l.add(key);
+        for(int num :hm.keySet()){
+            if(hm.get(num)>nums.length/3){
+                l.add(num);
             }
         }
+
         return l;
     }
 }
