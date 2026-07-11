@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prince8789/DSA2025/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/prince8789/DSA2025/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prince8789/DSA2025/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/prince8789/DSA2025/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prince8789/DSA2025/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince8789/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prince8789/DSA2025/tree/master/0217-contains-duplicate) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/prince8789/DSA2025/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prince8789/DSA2025/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prince8789/DSA2025/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince8789/DSA2025/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/prince8789/DSA2025/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/prince8789/DSA2025/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prince8789/DSA2025/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prince8789/DSA2025/tree/master/0287-find-the-duplicate-number) |
