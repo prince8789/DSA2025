@@ -10,8 +10,8 @@ class Solution {
             }
         }
         for(int i =0;i<ans.length;i++){
-            ans[i]=hm.get(arr[i]);
+            arr[i]=hm.get(arr[i]);
         }
-        return ans;
+        return arr;
     }
 }
