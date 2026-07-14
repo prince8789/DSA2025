@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prince8789/DSA2025/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/prince8789/DSA2025/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince8789/DSA2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince8789/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/prince8789/DSA2025/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/prince8789/DSA2025/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
