@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince8789/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/prince8789/DSA2025/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/prince8789/DSA2025/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prince8789/DSA2025/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince8789/DSA2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince8789/DSA2025/tree/master/0389-find-the-difference) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/prince8789/DSA2025/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/prince8789/DSA2025/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/prince8789/DSA2025/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prince8789/DSA2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince8789/DSA2025/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prince8789/DSA2025/tree/master/0143-reorder-list) |
