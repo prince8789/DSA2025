@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/prince8789/DSA2025/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prince8789/DSA2025/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/prince8789/DSA2025/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2810-faulty-keyboard](https://github.com/prince8789/DSA2025/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prince8789/DSA2025/tree/master/3120-count-the-number-of-special-characters-i) |
