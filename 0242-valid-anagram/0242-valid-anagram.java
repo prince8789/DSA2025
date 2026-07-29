@@ -3,27 +3,20 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        Map<Character,Integer> mp = new HashMap<>();
-        for(int i =0;i <s.length();i++){
+        int[] arr = new int[26];
+        for(int i =0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(!mp.containsKey(ch)){
-                mp.put(ch,1);
-            }
-            else{
-                mp.put(ch,mp.get(ch)+1);
-            }
+            arr[ch-'a']++;
         }
-        Map<Character,Integer> mt = new HashMap<>();
-        for(int i =0;i <t.length();i++){
+        for(int i =0;i<t.length();i++){
             char ch = t.charAt(i);
-            if(!mt.containsKey(ch)){
-                mt.put(ch,1);
-            }
-            else{
-                mt.put(ch,mt.get(ch)+1);
+            arr[ch-'a']--;
+        }
+        for(int i =0;i<26;i++){
+            if(arr[i] != 0){
+                return false;
             }
         }
-        return mp.equals(mt);
-        
+        return true;
     }
 }
