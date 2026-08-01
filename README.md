@@ -527,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prince8789/DSA2025/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/prince8789/DSA2025/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
