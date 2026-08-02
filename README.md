@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prince8789/DSA2025/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince8789/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/prince8789/DSA2025/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/prince8789/DSA2025/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/prince8789/DSA2025/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/prince8789/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/prince8789/DSA2025/tree/master/0912-sort-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince8789/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/prince8789/DSA2025/tree/master/0877-stone-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince8789/DSA2025/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince8789/DSA2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince8789/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/prince8789/DSA2025/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prince8789/DSA2025/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prince8789/DSA2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -533,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/prince8789/DSA2025/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prince8789/DSA2025/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prince8789/DSA2025/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prince8789/DSA2025/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
