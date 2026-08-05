@@ -4,6 +4,6 @@ select
     s.year,
     s.price
     from product as p
-    left join sales as s
+    inner join sales as s
     on p.product_id = s.product_id
-    where year is not null and price is not null;
+    
