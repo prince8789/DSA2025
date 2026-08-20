@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/prince8789/DSA2025/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prince8789/DSA2025/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prince8789/DSA2025/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prince8789/DSA2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prince8789/DSA2025/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prince8789/DSA2025/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/prince8789/DSA2025/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince8789/DSA2025/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2810-faulty-keyboard](https://github.com/prince8789/DSA2025/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prince8789/DSA2025/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/prince8789/DSA2025/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/prince8789/DSA2025/tree/master/3612-process-string-with-special-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/prince8789/DSA2025/tree/master/3726-remove-zeros-in-decimal-representation) |
