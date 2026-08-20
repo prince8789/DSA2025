@@ -14,12 +14,12 @@ class Solution {
 
         }
         l1.addAll(l2);
-       int[] arr = new int[l1.size()];
+       ///int[] arr = new int[l1.size()];
 
         for (int i = 0; i < l1.size(); i++) {
-            arr[i] = l1.get(i);
+            nums[i] = l1.get(i);
         }
 
-        return arr;
+        return nums;
     }
 }
