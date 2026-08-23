@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/prince8789/DSA2025/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prince8789/DSA2025/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prince8789/DSA2025/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1927-sum-game](https://github.com/prince8789/DSA2025/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/prince8789/DSA2025/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2810-faulty-keyboard](https://github.com/prince8789/DSA2025/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince8789/DSA2025/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/prince8789/DSA2025/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince8789/DSA2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/prince8789/DSA2025/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/prince8789/DSA2025/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/prince8789/DSA2025/tree/master/2126-destroying-asteroids) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince8789/DSA2025/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/prince8789/DSA2025/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prince8789/DSA2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/prince8789/DSA2025/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/prince8789/DSA2025/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prince8789/DSA2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prince8789/DSA2025/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/prince8789/DSA2025/tree/master/2396-strictly-palindromic-number) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prince8789/DSA2025/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/prince8789/DSA2025/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/prince8789/DSA2025/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
