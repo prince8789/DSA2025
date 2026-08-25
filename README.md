@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/prince8789/DSA2025/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/prince8789/DSA2025/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/prince8789/DSA2025/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/prince8789/DSA2025/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prince8789/DSA2025/tree/master/0066-plus-one) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince8789/DSA2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/prince8789/DSA2025/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prince8789/DSA2025/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince8789/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prince8789/DSA2025/tree/master/0222-count-complete-tree-nodes) |
