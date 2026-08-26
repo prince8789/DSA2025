@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/prince8789/DSA2025/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/prince8789/DSA2025/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2810-faulty-keyboard](https://github.com/prince8789/DSA2025/tree/master/2810-faulty-keyboard) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prince8789/DSA2025/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/prince8789/DSA2025/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prince8789/DSA2025/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince8789/DSA2025/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/prince8789/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/prince8789/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prince8789/DSA2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prince8789/DSA2025/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prince8789/DSA2025/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Memoization
 |  |
