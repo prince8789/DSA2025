@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/prince8789/DSA2025/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/prince8789/DSA2025/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/prince8789/DSA2025/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince8789/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/prince8789/DSA2025/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prince8789/DSA2025/tree/master/0067-add-binary) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prince8789/DSA2025/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prince8789/DSA2025/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince8789/DSA2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prince8789/DSA2025/tree/master/0152-maximum-product-subarray) |
@@ -594,4 +596,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/prince8789/DSA2025/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prince8789/DSA2025/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prince8789/DSA2025/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
