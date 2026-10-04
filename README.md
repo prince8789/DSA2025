@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/prince8789/DSA2025/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/prince8789/DSA2025/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/prince8789/DSA2025/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/prince8789/DSA2025/tree/master/0796-rotate-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/prince8789/DSA2025/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/prince8789/DSA2025/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince8789/DSA2025/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/prince8789/DSA2025/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince8789/DSA2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prince8789/DSA2025/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/prince8789/DSA2025/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/prince8789/DSA2025/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince8789/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/prince8789/DSA2025/tree/master/0877-stone-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/prince8789/DSA2025/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prince8789/DSA2025/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prince8789/DSA2025/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/prince8789/DSA2025/tree/master/0735-asteroid-collision) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince8789/DSA2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -608,4 +612,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prince8789/DSA2025/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
