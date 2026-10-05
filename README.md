@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/prince8789/DSA2025/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/prince8789/DSA2025/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/prince8789/DSA2025/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/prince8789/DSA2025/tree/master/0856-score-of-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/prince8789/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prince8789/DSA2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince8789/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prince8789/DSA2025/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/prince8789/DSA2025/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/prince8789/DSA2025/tree/master/0856-score-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/prince8789/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince8789/DSA2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -614,4 +616,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/prince8789/DSA2025/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prince8789/DSA2025/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prince8789/DSA2025/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
